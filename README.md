@@ -9,15 +9,15 @@ O objetivo deste projeto é praticar a criação de uma **página de apresentaç
 - **Editor:** Visual Studio Code (VS Code)
 - **Linguagem:** HTML5
 
-## 📂 Formato da Atividade
+## 📂 Formato do Projeto
 
 O projeto foi desenvolvido em um único arquivo principal:
 
 - `index.html`
 
-## 📝 O que a Questão Está Pedindo
+## 📝 O que há no Projeto
 
-A atividade solicita a criação de uma página HTML que contenha:
+O projeto solicita a criação de uma página HTML que contenha:
 
 - Um **cabeçalho (`<header>`)** com um título principal e um menu de navegação (`<nav>`);
 - Links de navegação que direcionam para diferentes seções da página (`<a href="#...">`);
